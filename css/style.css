@@ -1,0 +1,84 @@
+/* header start */
+.llg{
+  background-color: #27ae60;
+}
+/* header end */
+
+/* slider start */
+
+.banner{
+  background-image:url(../img/out.jpg);
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.cus [data-bs-target]{
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+}
+
+.cus{
+  bottom: 40px;
+}
+.slider{
+  background-color: rgba(1,1,1,.6);
+  color: white;
+  padding: 70px;
+}
+.slider h1{
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.slider p{
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.slider button{
+  margin-bottom: 85px;
+}
+
+/* slider end */
+
+
+/* 2nd slider */
+
+
+.cc_p{
+  left: 89% !important;
+  bottom: 50% !important;
+}
+.cc_n{
+  right: 2% !important;
+  bottom:50% !important;
+}
+
+
+.cc_p, .cc_n{
+  top:30%;
+  width: 5%;
+}
+
+
+.c_indicators {
+  
+  bottom: 50%;
+  left: -10%;
+  display: block;
+ 
+}
+.c_indicators [data-bs-target] {
+  
+  width: 15px;
+  height: 15px;
+  display: block;
+}
+.c_caption {
+  
+  bottom: 50%;
+
+}
+/* 2nd slider */
+
